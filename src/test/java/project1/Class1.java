@@ -6,6 +6,8 @@ public class Class1 {
 		System.out.println("this is demo 1");
 		
 		System.out.println("this is demo 2");
+		System.out.println("this is demo 3");
+		 
 		
 		
 
